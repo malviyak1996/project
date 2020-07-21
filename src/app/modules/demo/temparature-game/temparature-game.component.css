@@ -1,0 +1,16 @@
+.align-items{
+    height: 600px;
+    border: 2px solid #d2cbcb;
+}
+
+.list-text-align{
+    text-align: center;
+}
+
+.guess-success{
+    color:green;
+}
+.guess-fail{
+    color:red;
+}
+
